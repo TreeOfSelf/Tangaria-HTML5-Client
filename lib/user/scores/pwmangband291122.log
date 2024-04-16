@@ -1,0 +1,1004 @@
+291122 230040 Game Restarted
+291122 230040 Initialised exit save handler.
+291122 230040 Dungeon Master Set as [admin]
+291122 230040 Timer delay 13 ms timer resolution is 1 ms
+291122 230040 Initializing constants...
+291122 230041 Initializing projections...
+291122 230041 Initializing player properties...
+291122 230041 Initializing features...
+291122 230041 Initializing wilderness feats...
+291122 230041 Initializing wilderness info...
+291122 230041 Initializing town feats...
+291122 230041 Initializing towns...
+291122 230041 Initializing dungeons...
+291122 230041 Initializing object bases...
+291122 230041 Initializing slays...
+291122 230041 Initializing brands...
+291122 230041 Initializing monster pain messages...
+291122 230041 Initializing monster bases...
+291122 230041 Initializing summons...
+291122 230041 Initializing curses...
+291122 230041 Initializing activations...
+291122 230041 Initializing objects...
+291122 230041 Initializing ego-items...
+291122 230041 Initializing history charts...
+291122 230041 Initializing bodies...
+291122 230041 Initializing player races...
+291122 230041 Initializing dragon breeds...
+291122 230041 Initializing magic realms...
+291122 230041 Initializing player classes...
+291122 230041 Initializing DM starting items...
+291122 230041 Initializing artifacts...
+291122 230041 Initializing object properties...
+291122 230041 Initializing timed effects...
+291122 230041 Initializing object power calculations...
+291122 230041 Initializing blow methods...
+291122 230041 Initializing blow effects...
+291122 230041 Initializing monster spells...
+291122 230041 Initializing monsters...
+291122 230041 Initializing monster pits...
+291122 230041 Initializing traps...
+291122 230041 Initializing chest_traps...
+291122 230041 Initializing quests...
+291122 230041 Initializing flavours...
+291122 230041 Initializing socials...
+291122 230041 Initializing hints...
+291122 230041 Initializing swear...
+291122 230041 Initializing level_golds...
+291122 230041 Initializing random names...
+291122 230041 Initializing dungeon profiles...
+291122 230041 Initializing room templates...
+291122 230041 Initializing vaults...
+291122 230041 Initializing player presets...
+291122 230041 Initializing other stuff...
+291122 230041 Initializing randarts...
+291122 230041 Initializing RNG...
+291122 230041 Initialization complete
+291122 230041 Please wait...
+291122 230042 Object flavors initialized...
+291122 230042 Loading pref file: font.prf
+291122 230042 Create TCP socket...
+291122 230042 Set Non-Blocking...
+291122 230042 Report to metaserver
+291122 230042 Server is running version 1.6.0 (Beta 0) T-14
+291122 230042 Timer delay 13 ms timer resolution is 1 ms
+291122 230209 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 230242 Goodbye Sebastian II=GabaGanja@WillyWonka ("Client quit")
+291122 230245 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 230302 Shutting down.
+291122 230302 Server state save succeeded!
+291122 230302 Account info save succeeded!
+291122 230659 Game Restarted
+291122 230659 Initialised exit save handler.
+291122 230659 Dungeon Master Set as [admin]
+291122 230659 Timer delay 13 ms timer resolution is 1 ms
+291122 230659 Initializing constants...
+291122 230659 Initializing projections...
+291122 230659 Initializing player properties...
+291122 230659 Initializing features...
+291122 230659 Initializing wilderness feats...
+291122 230659 Initializing wilderness info...
+291122 230659 Initializing town feats...
+291122 230700 Initializing towns...
+291122 230700 Initializing dungeons...
+291122 230700 Initializing object bases...
+291122 230700 Initializing slays...
+291122 230700 Initializing brands...
+291122 230700 Initializing monster pain messages...
+291122 230700 Initializing monster bases...
+291122 230700 Initializing summons...
+291122 230700 Initializing curses...
+291122 230700 Initializing activations...
+291122 230700 Initializing objects...
+291122 230700 Initializing ego-items...
+291122 230700 Initializing history charts...
+291122 230700 Initializing bodies...
+291122 230700 Initializing player races...
+291122 230700 Initializing dragon breeds...
+291122 230700 Initializing magic realms...
+291122 230700 Initializing player classes...
+291122 230700 Initializing DM starting items...
+291122 230700 Initializing artifacts...
+291122 230700 Initializing object properties...
+291122 230700 Initializing timed effects...
+291122 230700 Initializing object power calculations...
+291122 230700 Initializing blow methods...
+291122 230700 Initializing blow effects...
+291122 230700 Initializing monster spells...
+291122 230700 Initializing monsters...
+291122 230700 Initializing monster pits...
+291122 230700 Initializing traps...
+291122 230700 Initializing chest_traps...
+291122 230700 Initializing quests...
+291122 230700 Initializing flavours...
+291122 230700 Initializing socials...
+291122 230700 Initializing hints...
+291122 230700 Initializing swear...
+291122 230700 Initializing level_golds...
+291122 230700 Initializing random names...
+291122 230700 Initializing dungeon profiles...
+291122 230700 Initializing room templates...
+291122 230700 Initializing vaults...
+291122 230700 Initializing player presets...
+291122 230700 Initializing other stuff...
+291122 230700 Initializing randarts...
+291122 230700 Initializing RNG...
+291122 230700 Initialization complete
+291122 230700 Please wait...
+291122 230700 Object flavors initialized...
+291122 230700 Loading pref file: font.prf
+291122 230700 Create TCP socket...
+291122 230700 Set Non-Blocking...
+291122 230700 Report to metaserver
+291122 230700 Server is running version 1.6.0 (Beta 0) T-14
+291122 230700 Timer delay 13 ms timer resolution is 1 ms
+291122 230708 Shutting down.
+291122 230708 Server state save succeeded!
+291122 230708 Account info save succeeded!
+291122 230924 Game Restarted
+291122 230924 Initialised exit save handler.
+291122 230924 Dungeon Master Set as [admin]
+291122 230924 Timer delay 13 ms timer resolution is 1 ms
+291122 230924 Initializing constants...
+291122 230924 Initializing projections...
+291122 230924 Initializing player properties...
+291122 230924 Initializing features...
+291122 230924 Initializing wilderness feats...
+291122 230924 Initializing wilderness info...
+291122 230924 Initializing town feats...
+291122 230924 Initializing towns...
+291122 230924 Initializing dungeons...
+291122 230924 Initializing object bases...
+291122 230924 Initializing slays...
+291122 230924 Initializing brands...
+291122 230924 Initializing monster pain messages...
+291122 230924 Initializing monster bases...
+291122 230924 Initializing summons...
+291122 230924 Initializing curses...
+291122 230924 Initializing activations...
+291122 230924 Initializing objects...
+291122 230924 Initializing ego-items...
+291122 230924 Initializing history charts...
+291122 230924 Initializing bodies...
+291122 230924 Initializing player races...
+291122 230924 Initializing dragon breeds...
+291122 230924 Initializing magic realms...
+291122 230924 Initializing player classes...
+291122 230924 Initializing DM starting items...
+291122 230924 Initializing artifacts...
+291122 230924 Initializing object properties...
+291122 230924 Initializing timed effects...
+291122 230924 Initializing object power calculations...
+291122 230924 Initializing blow methods...
+291122 230924 Initializing blow effects...
+291122 230924 Initializing monster spells...
+291122 230924 Initializing monsters...
+291122 230924 Initializing monster pits...
+291122 230924 Initializing traps...
+291122 230924 Initializing chest_traps...
+291122 230924 Initializing quests...
+291122 230924 Initializing flavours...
+291122 230924 Initializing socials...
+291122 230924 Initializing hints...
+291122 230924 Initializing swear...
+291122 230924 Initializing level_golds...
+291122 230924 Initializing random names...
+291122 230924 Initializing dungeon profiles...
+291122 230924 Initializing room templates...
+291122 230924 Initializing vaults...
+291122 230924 Initializing player presets...
+291122 230924 Initializing other stuff...
+291122 230924 Initializing randarts...
+291122 230924 Initializing RNG...
+291122 230924 Initialization complete
+291122 230924 Please wait...
+291122 230925 Object flavors initialized...
+291122 230925 Loading pref file: font.prf
+291122 230925 Create TCP socket...
+291122 230925 Set Non-Blocking...
+291122 230925 Report to metaserver
+291122 230925 Server is running version 1.6.0 (Beta 0) T-14
+291122 230925 Timer delay 13 ms timer resolution is 1 ms
+291122 230930 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 231002 Welcome Sebastian=Sebastian@DESKTOP-JB3BU5R (127.0.0.1) (version 000e)
+291122 231008 New Level 0ft at (0, 0)
+291122 231008 Player Name is [Sd], id is 1
+291122 231008 Sd: Server has non-connected stairs.
+291122 231008 Sd: Server has limited level feelings.
+291122 231008 Sd: Server is no-selling.
+291122 231008 Sd: Server is no-ghost.
+291122 231008 Sd: Server is running version 1.6.0 (Beta 0) T-14
+291122 231012 Sd: The huge bee wakes up.
+291122 231013 Sd: You hit the huge bee for {g5}g damage.
+291122 231016 Sd: The chicken wakes up.
+291122 231017 Sd: You hit the wagtail bird for {g4}g damage.
+291122 231020 Disconnected from server...
+291122 231020 Goodbye Sd=Sebastian@DESKTOP-JB3BU5R ("Client quit")
+291122 231033 Goodbye Sebastian II=GabaGanja@WillyWonka ("Client quit")
+291122 231036 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 231036 Account is full
+291122 231036 Goodbye Sebastian=GabaGanja@WillyWonka ("Account is full")
+291122 231053 Welcome Sebastian=Sebastian@DESKTOP-JB3BU5R (127.0.0.1) (version 000e)
+291122 231056 Player Name is [Sd], id is 1
+291122 231056 Sd: Server has non-connected stairs.
+291122 231056 Sd: Server has limited level feelings.
+291122 231056 Sd: Server is no-selling.
+291122 231056 Sd: Server is no-ghost.
+291122 231056 Sd: Server is running version 1.6.0 (Beta 0) T-14
+291122 231058 Sd: You see nothing there to disarm.
+291122 231102 Sd: You die.
+291122 231102 Sd: Score not registered for wizards, quitters and cheaters.
+291122 231102 Goodbye Sd=Sebastian@DESKTOP-JB3BU5R ("Terminated")
+291122 231109 Welcome Sebastian=Sebastian@DESKTOP-JB3BU5R (127.0.0.1) (version 000e)
+291122 231115 Character deleted
+291122 231115 Goodbye Sebastian=Sebastian@DESKTOP-JB3BU5R ("Character deleted")
+291122 231117 Welcome Sebastian=Sebastian@DESKTOP-JB3BU5R (127.0.0.1) (version 000e)
+291122 231125 New Level 0ft at (0, 0)
+291122 231125 Player Name is [Sebastian], id is 2
+291122 231125 Sebastian: Server has non-connected stairs.
+291122 231125 Sebastian: Server has limited level feelings.
+291122 231125 Sebastian: Server is no-selling.
+291122 231125 Sebastian: Server is no-ghost.
+291122 231125 Sebastian: Server is running version 1.6.0 (Beta 0) T-14
+291122 231127 Sebastian: [Sebastian] hi
+291122 231128 Disconnected from server...
+291122 231128 Goodbye Sebastian=Sebastian@DESKTOP-JB3BU5R ("Client quit")
+291122 231134 Welcome Sebastian=Sebastian@DESKTOP-JB3BU5R (127.0.0.1) (version 000e)
+291122 231136 Player Name is [Sebastian], id is 2
+291122 231136 Sebastian: Server has non-connected stairs.
+291122 231136 Sebastian: Server has limited level feelings.
+291122 231136 Sebastian: Server is no-selling.
+291122 231136 Sebastian: Server is no-ghost.
+291122 231136 Sebastian: Server is running version 1.6.0 (Beta 0) T-14
+291122 231138 Sebastian: You die.
+291122 231138 Sebastian: Score not registered for wizards, quitters and cheaters.
+291122 231138 Goodbye Sebastian=Sebastian@DESKTOP-JB3BU5R ("Terminated")
+291122 231139 Welcome Sebastian=Sebastian@DESKTOP-JB3BU5R (127.0.0.1) (version 000e)
+291122 231143 Character deleted
+291122 231143 Goodbye Sebastian=Sebastian@DESKTOP-JB3BU5R ("Character deleted")
+291122 231147 Welcome Sebastian=Sebastian@DESKTOP-JB3BU5R (127.0.0.1) (version 000e)
+291122 231150 Disconnected from server...
+291122 231150 Goodbye Sebastian=Sebastian@DESKTOP-JB3BU5R ("Client quit")
+291122 231155 Welcome Sebastian=Sebastian@DESKTOP-JB3BU5R (127.0.0.1) (version 000e)
+291122 231215 New Level 0ft at (0, 0)
+291122 231215 Player Name is [Sebastian II], id is 3
+291122 231215 Sebastian II: Server has non-connected stairs.
+291122 231215 Sebastian II: Server has limited level feelings.
+291122 231215 Sebastian II: Server is no-selling.
+291122 231215 Sebastian II: Server is no-ghost.
+291122 231215 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 231216 Disconnected from server...
+291122 231216 Goodbye Sebastian II=Sebastian@DESKTOP-JB3BU5R ("Client quit")
+291122 231220 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 231221 Player Name is [Sebastian II], id is 3
+291122 231221 Sebastian II: Server has non-connected stairs.
+291122 231221 Sebastian II: Server has limited level feelings.
+291122 231221 Sebastian II: Server is no-selling.
+291122 231221 Sebastian II: Server is no-ghost.
+291122 231221 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 231223 Sebastian II: There is a wall blocking your way.
+291122 231230 Sebastian II: You are drowning!
+291122 231231 Sebastian II: You are drowning!
+291122 231231 Sebastian II: You are drowning!
+291122 231232 Sebastian II: You are drowning!
+291122 231232 Sebastian II: You are drowning!
+291122 231233 Sebastian II: There is a wall in the way!
+291122 231233 Sebastian II: There is a wall in the way!
+291122 231235 Sebastian II: There is a wall in the way!
+291122 231236 Sebastian II: There is a wall in the way!
+291122 231236 New Level 0ft at (0, 1)
+291122 231236 Sebastian II: There is a wall in the way!
+291122 231236 Sebastian II: There is a wall in the way!
+291122 231237 Sebastian II: There is a wall in the way!
+291122 231237 Sebastian II: There is a wall in the way!
+291122 231237 Sebastian II: There is a wall in the way!
+291122 231237 Sebastian II: There is a wall in the way!
+291122 231237 Sebastian II: There is a wall in the way!
+291122 231238 Sebastian II: There is a wall in the way!
+291122 231238 Sebastian II: There is a wall in the way!
+291122 231238 Sebastian II: There is a wall in the way!
+291122 231249 Sebastian II: You hit the raving lunatic.
+291122 231250 Sebastian II: You hit the raving lunatic.
+291122 231250 Sebastian II: The raving lunatic drools on you.
+291122 231250 Sebastian II: You hit the raving lunatic.
+291122 231250 Sebastian II: The raving lunatic flees in terror!
+291122 231302 Sebastian II: You hit the raving lunatic.
+291122 231302 Sebastian II: You have defeated the raving lunatic.
+291122 231341 Sebastian II: A fountain is located at this place.
+291122 231345 Sebastian II: You hit the turtle.
+291122 231346 Sebastian II: The pitiful-looking beggar wakes up.
+291122 231351 Goodbye Sebastian II=GabaGanja@WillyWonka ("Client quit")
+291122 231400 Welcome Sebastian=Sebastian@DESKTOP-JB3BU5R (127.0.0.1) (version 000e)
+291122 231402 Player Name is [Sebastian II], id is 3
+291122 231402 Sebastian II: Server has non-connected stairs.
+291122 231402 Sebastian II: Server has limited level feelings.
+291122 231402 Sebastian II: Server is no-selling.
+291122 231402 Sebastian II: Server is no-ghost.
+291122 231402 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 231402 Sebastian II: There is a wall in the way!
+291122 231403 Sebastian II: There is a wall in the way!
+291122 231408 New Level 0ft at (-1, 1)
+291122 231408 Sebastian II: There is a wall in the way!
+291122 231408 Sebastian II: There is a wall in the way!
+291122 231409 Sebastian II: There is a wall in the way!
+291122 231409 Sebastian II: There is a wall in the way!
+291122 231409 Sebastian II: There is a wall in the way!
+291122 231409 Sebastian II: There is a wall in the way!
+291122 231411 New Level 400ft at (-1, 1) Ratings obj:19/mon:40
+291122 231411 Sebastian II: This seems a quiet, peaceful place.
+291122 231413 Disconnected from server...
+291122 231417 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 231417 Goodbye Sebastian II=Sebastian@DESKTOP-JB3BU5R ("Client quit")
+291122 231417 Player Name is [Sebastian II], id is 3
+291122 231417 Sebastian II: Server has non-connected stairs.
+291122 231417 Sebastian II: Server has limited level feelings.
+291122 231417 Sebastian II: Server is no-selling.
+291122 231417 Sebastian II: Server is no-ghost.
+291122 231417 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 231417 Sebastian II: This seems a quiet, peaceful place.
+291122 231424 Sebastian II: The mindbender wakes up.
+291122 231424 Sebastian II: You hit the soldier.
+291122 231425 Sebastian II: The soldier hits you.
+291122 231425 Sebastian II: The soldier hits you.
+291122 231425 Sebastian II: You hit the soldier.
+291122 231425 Sebastian II: The soldier hits you.
+291122 231425 Sebastian II: The soldier hits you.
+291122 231425 Sebastian II: The mindbender tries to cast a spell, but fails.
+291122 231426 Sebastian II: The soldier hits you.
+291122 231426 Sebastian II: You die.
+291122 231426 Sebastian II: You have been killed by a soldier.
+291122 231427 Goodbye Sebastian II=GabaGanja@WillyWonka ("Killed by a soldier")
+291122 231440 Welcome Sebastian=Sebastian@DESKTOP-JB3BU5R (127.0.0.1) (version 000e)
+291122 231441 Character deleted
+291122 231441 Goodbye Sebastian=Sebastian@DESKTOP-JB3BU5R ("Character deleted")
+291122 231444 Welcome Sebastian=Sebastian@DESKTOP-JB3BU5R (127.0.0.1) (version 000e)
+291122 231453 New Level 0ft at (0, 0)
+291122 231453 Player Name is [Sebastian II], id is 4
+291122 231453 Sebastian II: Server has non-connected stairs.
+291122 231453 Sebastian II: Server has limited level feelings.
+291122 231453 Sebastian II: Server is no-selling.
+291122 231453 Sebastian II: Server is no-ghost.
+291122 231453 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 231454 Disconnected from server...
+291122 231454 Goodbye Sebastian II=Sebastian@DESKTOP-JB3BU5R ("Client quit")
+291122 231457 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 231457 Player Name is [Sebastian II], id is 4
+291122 231457 Sebastian II: Server has non-connected stairs.
+291122 231457 Sebastian II: Server has limited level feelings.
+291122 231457 Sebastian II: Server is no-selling.
+291122 231457 Sebastian II: Server is no-ghost.
+291122 231457 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 231503 Goodbye Sebastian II=GabaGanja@WillyWonka ("Client quit")
+291122 231504 Welcome Sebastian=Sebastian@DESKTOP-JB3BU5R (127.0.0.1) (version 000e)
+291122 231506 Player Name is [Sebastian II], id is 4
+291122 231506 Sebastian II: Server has non-connected stairs.
+291122 231506 Sebastian II: Server has limited level feelings.
+291122 231506 Sebastian II: Server is no-selling.
+291122 231506 Sebastian II: Server is no-ghost.
+291122 231506 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 231507 Sebastian II: The wild rabbit wakes up.
+291122 231510 New Level 50ft at (0, 0) Ratings obj:122/mon:21
+291122 231510 Sebastian II: This seems a quiet, peaceful place.
+291122 231513 Sebastian II: There is a wall blocking your way.
+291122 231515 Disconnected from server...
+291122 231519 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 231519 Goodbye Sebastian II=Sebastian@DESKTOP-JB3BU5R ("Resume connection")
+291122 231519 Player Name is [Sebastian II], id is 4
+291122 231519 Sebastian II: Server has non-connected stairs.
+291122 231519 Sebastian II: Server has limited level feelings.
+291122 231519 Sebastian II: Server is no-selling.
+291122 231519 Sebastian II: Server is no-ghost.
+291122 231519 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 231519 Sebastian II: This seems a quiet, peaceful place.
+291122 231531 Sebastian II: There is a tree in the way!
+291122 231532 Sebastian II: There is a tree in the way!
+291122 231533 Sebastian II: There is a tree in the way!
+291122 231541 Sebastian II: There is a tree in the way!
+291122 231541 Sebastian II: There is a wall in the way!
+291122 231542 Sebastian II: There is a wall in the way!
+291122 231546 Sebastian II: You have found 22 gold pieces worth of copper.
+291122 231552 Goodbye Sebastian II=GabaGanja@WillyWonka ("Client quit")
+291122 231557 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 231557 Player Name is [Sebastian II], id is 4
+291122 231557 Sebastian II: Server has non-connected stairs.
+291122 231557 Sebastian II: Server has limited level feelings.
+291122 231557 Sebastian II: Server is no-selling.
+291122 231557 Sebastian II: Server is no-ghost.
+291122 231557 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 231557 Sebastian II: This seems a quiet, peaceful place.
+291122 231642 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 231642 Goodbye Sebastian II=GabaGanja@WillyWonka ("Resume connection")
+291122 231643 Player Name is [Sebastian II], id is 4
+291122 231643 Sebastian II: Server has non-connected stairs.
+291122 231643 Sebastian II: Server has limited level feelings.
+291122 231643 Sebastian II: Server is no-selling.
+291122 231643 Sebastian II: Server is no-ghost.
+291122 231643 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 231643 Sebastian II: This seems a quiet, peaceful place.
+291122 231648 Goodbye Sebastian II=GabaGanja@WillyWonka ("Client quit")
+291122 231651 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 231652 Player Name is [Sebastian II], id is 4
+291122 231652 Sebastian II: Server has non-connected stairs.
+291122 231652 Sebastian II: Server has limited level feelings.
+291122 231652 Sebastian II: Server is no-selling.
+291122 231652 Sebastian II: Server is no-ghost.
+291122 231652 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 231652 Sebastian II: This seems a quiet, peaceful place.
+291122 231710 Sebastian II: There is a tree in the way!
+291122 231710 Sebastian II: There is a tree in the way!
+291122 231711 Sebastian II: There is a wall in the way!
+291122 231714 Sebastian II: The sun has fallen.
+291122 231716 Sebastian II: There is a wall in the way!
+291122 231716 Sebastian II: You hit the soldier ant.
+291122 231716 Sebastian II: The soldier ant flees in terror!
+291122 231718 Sebastian II: There is a wall in the way!
+291122 231718 Sebastian II: There is a wall in the way!
+291122 231728 Goodbye Sebastian II=GabaGanja@WillyWonka ("Client quit")
+291122 231730 Welcome Sebastian=Sebastian@DESKTOP-JB3BU5R (127.0.0.1) (version 000e)
+291122 231732 Player Name is [Sebastian II], id is 4
+291122 231732 Sebastian II: Server has non-connected stairs.
+291122 231732 Sebastian II: Server has limited level feelings.
+291122 231732 Sebastian II: Server is no-selling.
+291122 231732 Sebastian II: Server is no-ghost.
+291122 231732 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 231732 Sebastian II: This seems a quiet, peaceful place.
+291122 231737 Sebastian II: There is a tree in the way!
+291122 231739 Disconnected from server...
+291122 231743 Goodbye Sebastian II=Sebastian@DESKTOP-JB3BU5R ("Client quit")
+291122 231804 Welcome Ganja=Sebastian@DESKTOP-JB3BU5R (127.0.0.1) (version 000e)
+291122 231812 New Level 0ft at (0, 0)
+291122 231812 Player Name is [Ganja], id is 5
+291122 231812 Ganja: Server has non-connected stairs.
+291122 231812 Ganja: Server has limited level feelings.
+291122 231812 Ganja: Server is no-selling.
+291122 231812 Ganja: Server is no-ghost.
+291122 231812 Ganja: Server is running version 1.6.0 (Beta 0) T-14
+291122 231813 Ganja: There is a wall in the way!
+291122 231819 New Level 50ft at (0, 0) Ratings obj:26/mon:27
+291122 231819 Ganja: This seems a quiet, peaceful place.
+291122 231822 Ganja: There is a wall blocking your way.
+291122 231845 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 231845 Player Name is [Sebastian II], id is 4
+291122 231845 Sebastian II: Server has non-connected stairs.
+291122 231845 Sebastian II: Server has limited level feelings.
+291122 231845 Sebastian II: Server is no-selling.
+291122 231845 Sebastian II: Server is no-ghost.
+291122 231845 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 231845 Sebastian II: This seemed a quiet, peaceful place.
+291122 231845 Ganja: Sebastian II begins a new game.
+291122 231849 Sebastian II: There is a wall in the way!
+291122 231849 Sebastian II: There is a wall in the way!
+291122 231849 Sebastian II: There is a wall in the way!
+291122 231855 Ganja: That player is not currently in the game.
+291122 231858 Ganja: Sebastian II has been added to party fgsfs.
+291122 231858 Sebastian II: You've been added to party 'fgsfs'.
+291122 231901 Sebastian II: There is a wall in the way!
+291122 231902 Sebastian II: There is a tree in the way!
+291122 231902 Sebastian II: There is a wall in the way!
+291122 231902 Sebastian II: There is a tree in the way!
+291122 231902 Sebastian II: There is a wall in the way!
+291122 231902 Sebastian II: There is a wall in the way!
+291122 231904 Ganja: There is a wall in the way!
+291122 231904 Ganja: There is a wall in the way!
+291122 231905 Ganja: There is a wall in the way!
+291122 231912 Sebastian II: There is a wall in the way!
+291122 231912 Sebastian II: There is a wall in the way!
+291122 231913 Sebastian II: There is a wall in the way!
+291122 231921 Sebastian II: There is a wall in the way!
+291122 231922 Sebastian II: There is a wall in the way!
+291122 231923 Sebastian II: There is a wall in the way!
+291122 231923 Sebastian II: There is a wall in the way!
+291122 231923 Sebastian II: There is a wall in the way!
+291122 231924 Sebastian II: There is a tree in the way!
+291122 231924 Sebastian II: There is a tree in the way!
+291122 231924 Sebastian II: There is a wall in the way!
+291122 231925 Sebastian II: There is a wall in the way!
+291122 231925 Sebastian II: There is a wall in the way!
+291122 231925 Sebastian II: There is a wall in the way!
+291122 231935 Ganja: There is a wall in the way!
+291122 231936 Ganja: There is a wall in the way!
+291122 231936 Ganja: There is a wall in the way!
+291122 231936 Ganja: There is a wall in the way!
+291122 231936 Ganja: There is a wall in the way!
+291122 231936 Ganja: There is a wall in the way!
+291122 231936 Ganja: There is a wall in the way!
+291122 231936 Ganja: There is a wall in the way!
+291122 231936 Ganja: There is a wall in the way!
+291122 231937 Ganja: There is a tree in the way!
+291122 231937 Ganja: There is a tree in the way!
+291122 231937 Ganja: There is a wall in the way!
+291122 231937 Ganja: There is a wall in the way!
+291122 231939 Ganja: There is a wall in the way!
+291122 231939 Ganja: There is a wall in the way!
+291122 231939 Ganja: There is a wall in the way!
+291122 231941 Ganja: You hit the grey mushroom patch for {g2}g damage.
+291122 231942 Ganja: You hit the grey mushroom patch for {g2}g damage.
+291122 231942 Ganja: You hit the grey mushroom patch for {g3}g damage.
+291122 231942 Ganja: You have destroyed the grey mushroom patch.
+291122 231946 Ganja: There is a wall in the way!
+291122 231947 Ganja: There is a wall in the way!
+291122 231947 Ganja: There is a wall in the way!
+291122 231953 Ganja: There is a tree in the way!
+291122 231954 Ganja: There is a tree in the way!
+291122 231954 Ganja: There is a tree in the way!
+291122 231954 Ganja: There is a tree in the way!
+291122 232021 Ganja: You hit a teleport trap!
+291122 232022 Ganja: There is a wall in the way!
+291122 232023 Ganja: There is a tree in the way!
+291122 232024 Ganja: There is a tree in the way!
+291122 232024 Ganja: There is a wall in the way!
+291122 232024 Ganja: There is a wall in the way!
+291122 232025 Ganja: There is a wall in the way!
+291122 232025 Ganja: There is a wall in the way!
+291122 232025 Ganja: There is a wall in the way!
+291122 232025 Ganja: There is a tree in the way!
+291122 232026 Ganja: There is a tree in the way!
+291122 232026 Ganja: There is a tree in the way!
+291122 232026 Ganja: There is a wall in the way!
+291122 232027 Ganja: There is a wall in the way!
+291122 232028 Ganja: There is a wall in the way!
+291122 232030 Ganja: The rock lizard misses you.
+291122 232030 Ganja: You hit the rock lizard for {g3}g damage.
+291122 232031 Ganja: The rock lizard bites you for {r1}r damage.
+291122 232031 Ganja: You hit the rock lizard for {g1}g damage.
+291122 232031 Ganja: The rock lizard bites you for {r1}r damage.
+291122 232031 Ganja: You hit the rock lizard for {g2}g damage.
+291122 232031 Ganja: The rock lizard flees in terror!
+291122 232034 Ganja: There is a wall in the way!
+291122 232034 Ganja: There is a wall in the way!
+291122 232037 Ganja: There is a wall in the way!
+291122 232039 Ganja: You bump into Sebastian II.
+291122 232039 Sebastian II: Ganja bumps into you.
+291122 232050 Sebastian II: You bump into Ganja.
+291122 232050 Ganja: Sebastian II bumps into you.
+291122 232207 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 232208 Goodbye Sebastian II=GabaGanja@WillyWonka ("Resume connection")
+291122 232208 Ganja: Sebastian II has left the game.
+291122 232208 Player Name is [Sebastian II], id is 4
+291122 232208 Sebastian II: Server has non-connected stairs.
+291122 232208 Sebastian II: Server has limited level feelings.
+291122 232208 Sebastian II: Server is no-selling.
+291122 232208 Sebastian II: Server is no-ghost.
+291122 232208 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 232208 Sebastian II: This seemed a quiet, peaceful place.
+291122 232208 Ganja: Sebastian II begins a new game.
+291122 232210 Sebastian II: You bump into Ganja.
+291122 232210 Ganja: Sebastian II bumps into you.
+291122 232210 Sebastian II: You bump into Ganja.
+291122 232210 Ganja: Sebastian II bumps into you.
+291122 232213 Sebastian II: There is a wall in the way!
+291122 232220 Goodbye Sebastian II=GabaGanja@WillyWonka ("Client quit")
+291122 232220 Ganja: Sebastian II has left the game.
+291122 232223 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 232223 Player Name is [Sebastian II], id is 4
+291122 232223 Sebastian II: Server has non-connected stairs.
+291122 232223 Sebastian II: Server has limited level feelings.
+291122 232223 Sebastian II: Server is no-selling.
+291122 232223 Sebastian II: Server is no-ghost.
+291122 232223 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 232223 Sebastian II: This seemed a quiet, peaceful place.
+291122 232223 Ganja: Sebastian II begins a new game.
+291122 232224 Sebastian II: You see nothing there to tunnel.
+291122 232224 Sebastian II: You see nothing there to tunnel.
+291122 232230 Sebastian II: The clear icky thing touches you.
+291122 232231 Sebastian II: You hit the clear icky thing.
+291122 232231 Sebastian II: The clear icky thing flees in terror!
+291122 232236 Sebastian II: The clear icky thing touches you.
+291122 232237 Sebastian II: You hit the clear icky thing.
+291122 232237 Ganja: Sebastian II has slain the clear icky thing.
+291122 232237 Sebastian II: You have slain the clear icky thing.
+291122 232240 Sebastian II: There is a wall in the way!
+291122 232240 Sebastian II: There is a wall in the way!
+291122 232241 Sebastian II: There is a wall in the way!
+291122 232242 Sebastian II: There is a wall in the way!
+291122 232242 Sebastian II: There is a wall in the way!
+291122 232242 Sebastian II: There is a wall in the way!
+291122 232242 Sebastian II: There is a wall in the way!
+291122 232242 Sebastian II: There is a wall in the way!
+291122 232242 Sebastian II: There is a wall in the way!
+291122 232243 Sebastian II: There is a wall in the way!
+291122 232243 Sebastian II: There is a wall in the way!
+291122 232243 Sebastian II: There is a wall in the way!
+291122 232243 Sebastian II: There is a wall in the way!
+291122 232243 Sebastian II: There is a wall in the way!
+291122 232243 Sebastian II: There is a wall in the way!
+291122 232244 Sebastian II: There is a wall in the way!
+291122 232244 Sebastian II: There is a wall in the way!
+291122 232244 Sebastian II: There is a wall in the way!
+291122 232244 Sebastian II: There is a wall in the way!
+291122 232244 Sebastian II: There is a wall in the way!
+291122 232244 Sebastian II: There is a wall in the way!
+291122 232244 Sebastian II: There is a wall in the way!
+291122 232244 Sebastian II: There is a wall in the way!
+291122 232245 Sebastian II: There is a wall in the way!
+291122 232245 Sebastian II: There is a wall in the way!
+291122 232245 Sebastian II: There is a wall in the way!
+291122 232245 Sebastian II: There is a wall in the way!
+291122 232245 Sebastian II: There is a wall in the way!
+291122 232245 Sebastian II: There is a wall in the way!
+291122 232245 Sebastian II: There is a wall in the way!
+291122 232246 Sebastian II: The giant cockroach wakes up.
+291122 232246 Sebastian II: You hit the giant cockroach.
+291122 232246 Sebastian II: The giant cockroach wakes up.
+291122 232246 Sebastian II: You hit the giant cockroach.
+291122 232246 Sebastian II: You have slain the giant cockroach.
+291122 232246 Sebastian II: The giant cockroach bites you.
+291122 232247 Sebastian II: The giant cockroach bites you.
+291122 232247 Sebastian II: You hit the giant cockroach.
+291122 232247 Sebastian II: You have slain the giant cockroach.
+291122 232248 Sebastian II: There is a tree in the way!
+291122 232300 Sebastian II: There is a wall blocking your way.
+291122 232302 Sebastian II: There is a wall in the way!
+291122 232304 Sebastian II: There is a wall in the way!
+291122 232309 Sebastian II: You hit the small kobold.
+291122 232309 Sebastian II: The small kobold flees in terror!
+291122 232309 Sebastian II: You hit the small kobold.
+291122 232309 Sebastian II: You have slain the small kobold.
+291122 232310 Sebastian II: You see a Flask of Whisky.
+291122 232311 Sebastian II: There is a tree in the way!
+291122 232325 Sebastian II: There is a tree in the way!
+291122 232325 Sebastian II: There is a tree in the way!
+291122 232334 Goodbye Sebastian II=GabaGanja@WillyWonka ("Client quit")
+291122 232334 Ganja: Sebastian II has left the game.
+291122 232734 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 232734 Player Name is [Sebastian II], id is 4
+291122 232734 Sebastian II: Server has non-connected stairs.
+291122 232734 Sebastian II: Server has limited level feelings.
+291122 232734 Sebastian II: Server is no-selling.
+291122 232734 Sebastian II: Server is no-ghost.
+291122 232734 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 232734 Sebastian II: This seemed a quiet, peaceful place.
+291122 232734 Ganja: Sebastian II has entered the game.
+291122 232810 Sebastian II: You have 0 account points.
+291122 232811 Ganja: The sun has risen.
+291122 232811 Sebastian II: The sun has risen.
+291122 232816 Sebastian II: You have 0 account points.
+291122 232823 Sebastian II: You have 0 account points.
+291122 232852 Sebastian II: You have 0 account points.
+291122 233001 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 233001 Goodbye Sebastian II=GabaGanja@WillyWonka ("Resume connection")
+291122 233001 Ganja: Sebastian II has left the game.
+291122 233001 Player Name is [Sebastian II], id is 4
+291122 233001 Sebastian II: Server has non-connected stairs.
+291122 233001 Sebastian II: Server has limited level feelings.
+291122 233001 Sebastian II: Server is no-selling.
+291122 233001 Sebastian II: Server is no-ghost.
+291122 233001 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 233001 Sebastian II: This seemed a quiet, peaceful place.
+291122 233001 Ganja: Sebastian II has entered the game.
+291122 233005 Sebastian II: You have 0 account points.
+291122 233007 Sebastian II: You have 0 account points.
+291122 233117 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 233117 Goodbye Sebastian II=GabaGanja@WillyWonka ("Resume connection")
+291122 233117 Ganja: Sebastian II has left the game.
+291122 233117 Player Name is [Sebastian II], id is 4
+291122 233117 Sebastian II: Server has non-connected stairs.
+291122 233117 Sebastian II: Server has limited level feelings.
+291122 233117 Sebastian II: Server is no-selling.
+291122 233117 Sebastian II: Server is no-ghost.
+291122 233117 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 233117 Sebastian II: This seemed a quiet, peaceful place.
+291122 233117 Ganja: Sebastian II has entered the game.
+291122 233119 Disconnected from server...
+291122 233123 Goodbye Ganja=Sebastian@DESKTOP-JB3BU5R ("Client quit")
+291122 233123 Sebastian II: Ganja has left the game.
+291122 233125 Goodbye Sebastian II=GabaGanja@WillyWonka ("Client quit")
+291122 233150 Welcome Sebastian=Sebastian@DESKTOP-JB3BU5R (127.0.0.1) (version 000e)
+291122 233152 Player Name is [Sebastian II], id is 4
+291122 233152 Sebastian II: Server has non-connected stairs.
+291122 233152 Sebastian II: Server has limited level feelings.
+291122 233152 Sebastian II: Server is no-selling.
+291122 233152 Sebastian II: Server is no-ghost.
+291122 233152 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 233152 Sebastian II: You are still uncertain about this place.
+291122 233154 Sebastian II: There is a tree in the way!
+291122 233154 Sebastian II: There is a wall in the way!
+291122 233154 Sebastian II: There is a wall in the way!
+291122 233154 Sebastian II: There is a wall in the way!
+291122 233154 Sebastian II: There is a tree in the way!
+291122 233154 Sebastian II: There is a wall blocking your way.
+291122 233200 Sebastian II: The fruit bat bites you for {r1}r damage.
+291122 233200 Sebastian II: The fruit bat bites you for {r1}r damage.
+291122 233201 Sebastian II: The fruit bat bites you for {r1}r damage.
+291122 233201 Sebastian II: The fruit bat misses you.
+291122 233201 Sebastian II: You hit the fruit bat for {g5}g damage.
+291122 233201 Sebastian II: The fruit bat flees in terror!
+291122 233203 Sebastian II: You have found 31 gold pieces worth of copper.
+291122 233204 Sebastian II: You see a Set of Leather Gloves [1,+5].
+291122 233205 Sebastian II: You have a Set of Leather Gloves [1,+5] (g).
+291122 233207 Sebastian II: You die.
+291122 233207 Sebastian II: You have been removed from your party.
+291122 233207 Sebastian II: Score not registered for wizards, quitters and cheaters.
+291122 233207 Goodbye Sebastian II=Sebastian@DESKTOP-JB3BU5R ("Terminated")
+291122 233208 Welcome Sebastian=Sebastian@DESKTOP-JB3BU5R (127.0.0.1) (version 000e)
+291122 233216 New Level 0ft at (0, 0)
+291122 233216 Player Name is [Sebastian II], id is 6
+291122 233216 Sebastian II: Server has non-connected stairs.
+291122 233216 Sebastian II: Server has limited level feelings.
+291122 233216 Sebastian II: Server is no-selling.
+291122 233216 Sebastian II: Server is no-ghost.
+291122 233216 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 233217 Disconnected from server...
+291122 233217 Goodbye Sebastian II=Sebastian@DESKTOP-JB3BU5R ("Client quit")
+291122 233220 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 233220 Player Name is [Sebastian II], id is 6
+291122 233220 Sebastian II: Server has non-connected stairs.
+291122 233220 Sebastian II: Server has limited level feelings.
+291122 233220 Sebastian II: Server is no-selling.
+291122 233220 Sebastian II: Server is no-ghost.
+291122 233220 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 233225 Sebastian II: You are drowning!
+291122 233226 Sebastian II: You are drowning!
+291122 233226 Sebastian II: You are drowning!
+291122 233227 Sebastian II: You are drowning!
+291122 233227 Sebastian II: You are drowning!
+291122 233228 Sebastian II: You are drowning!
+291122 233229 Sebastian II: There is a wall in the way!
+291122 233229 Sebastian II: There is a wall in the way!
+291122 233230 Sebastian II: There is a wall in the way!
+291122 233230 Sebastian II: There is a wall in the way!
+291122 233230 Sebastian II: There is a wall in the way!
+291122 233230 Sebastian II: There is a wall in the way!
+291122 233230 Sebastian II: There is a wall in the way!
+291122 233230 New Level 0ft at (0, 1)
+291122 233230 Sebastian II: There is a wall in the way!
+291122 233231 Sebastian II: There is a wall in the way!
+291122 233231 Sebastian II: There is a wall in the way!
+291122 233232 Sebastian II: There is a wall in the way!
+291122 233232 Sebastian II: There is a wall in the way!
+291122 233232 Sebastian II: There is a wall in the way!
+291122 233232 Sebastian II: There is a wall in the way!
+291122 233232 Sebastian II: There is a wall in the way!
+291122 233232 Sebastian II: There is a wall in the way!
+291122 233232 Sebastian II: There is a wall in the way!
+291122 233233 Sebastian II: There is a wall in the way!
+291122 233233 Sebastian II: There is a wall in the way!
+291122 233233 Sebastian II: There is a wall in the way!
+291122 233233 Sebastian II: There is a wall in the way!
+291122 233233 Sebastian II: There is a wall in the way!
+291122 233233 Sebastian II: There is a wall in the way!
+291122 233233 Sebastian II: There is a wall in the way!
+291122 233529 Sebastian II: The cow wakes up.
+291122 233530 Sebastian II: The black cat wakes up.
+291122 233531 Sebastian II: You hit the village idiot.
+291122 233531 Sebastian II: The village idiot drools on you.
+291122 233531 Sebastian II: The village idiot drools on you.
+291122 233531 Sebastian II: The perch fish wakes up.
+291122 233531 Sebastian II: The village idiot drools on you.
+291122 233537 Sebastian II: The wagtail bird wakes up.
+291122 233537 Sebastian II: You hit the wagtail bird.
+291122 233538 Sebastian II: You hit the wagtail bird.
+291122 233539 Sebastian II: You hit the wagtail bird.
+291122 233539 Sebastian II: You miss the wagtail bird.
+291122 233540 Sebastian II: There is a wall in the way!
+291122 233540 Sebastian II: You hit the wagtail bird.
+291122 233543 Sebastian II: There is a wall in the way!
+291122 233543 Sebastian II: There is a wall in the way!
+291122 233543 Sebastian II: There is a wall in the way!
+291122 233543 Sebastian II: There is a wall in the way!
+291122 233544 Sebastian II: There is a wall in the way!
+291122 233552 New Level 0ft at (-1, 1)
+291122 233907 Sebastian II: The sun has fallen.
+291122 234056 Goodbye Sebastian II=GabaGanja@WillyWonka ("Client quit")
+291122 234058 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 234058 Player Name is [Sebastian II], id is 6
+291122 234058 Sebastian II: Server has non-connected stairs.
+291122 234058 Sebastian II: Server has limited level feelings.
+291122 234058 Sebastian II: Server is no-selling.
+291122 234058 Sebastian II: Server is no-ghost.
+291122 234058 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 234113 Sebastian II: You are drowning!
+291122 234114 Sebastian II: You are drowning!
+291122 234114 Sebastian II: You are drowning!
+291122 234116 Sebastian II: You are drowning!
+291122 234117 Sebastian II: You are drowning!
+291122 234117 Sebastian II: You are drowning!
+291122 234120 New Level 0ft at (0, 1)
+291122 234125 Sebastian II: You hit the village idiot.
+291122 234125 Sebastian II: The village idiot flees in terror!
+291122 234126 Sebastian II: You hit the village idiot.
+291122 234133 Sebastian II: You hit the roach fish.
+291122 234133 Sebastian II: You have slain the roach fish.
+291122 234133 Sebastian II: You are drowning!
+291122 234134 Sebastian II: You are drowning!
+291122 234134 Sebastian II: You miss the perch fish.
+291122 234134 Sebastian II: You are drowning!
+291122 234134 Sebastian II: You hit the perch fish.
+291122 234134 Sebastian II: You have slain the perch fish.
+291122 234135 Sebastian II: You are drowning!
+291122 234135 Sebastian II: You hit the squirrel.
+291122 234136 Sebastian II: You hit the squirrel.
+291122 234137 Sebastian II: The squirrel hits you.
+291122 234137 Sebastian II: You hit the squirrel.
+291122 234142 Sebastian II: You hit the squirrel.
+291122 234143 Goodbye Sebastian II=GabaGanja@WillyWonka ("Client quit")
+291122 234145 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 234146 Player Name is [Sebastian II], id is 6
+291122 234146 Sebastian II: Server has non-connected stairs.
+291122 234146 Sebastian II: Server has limited level feelings.
+291122 234146 Sebastian II: Server is no-selling.
+291122 234146 Sebastian II: Server is no-ghost.
+291122 234146 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 234206 Sebastian II: You hit the hobo.
+291122 234206 Sebastian II: You have defeated the hobo.
+291122 234209 Sebastian II: The grey cat wakes up.
+291122 234219 Sebastian II: You hit the hobo.
+291122 234219 Sebastian II: You have defeated the hobo.
+291122 234226 Goodbye Sebastian II=GabaGanja@WillyWonka ("Client quit")
+291122 234230 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 234231 Player Name is [Sebastian II], id is 6
+291122 234231 Sebastian II: Server has non-connected stairs.
+291122 234231 Sebastian II: Server has limited level feelings.
+291122 234231 Sebastian II: Server is no-selling.
+291122 234231 Sebastian II: Server is no-ghost.
+291122 234231 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 234234 Sebastian II: There is a wall in the way!
+291122 234234 Sebastian II: There is a wall in the way!
+291122 234235 Sebastian II: There is a wall in the way!
+291122 234235 Sebastian II: There is a wall in the way!
+291122 234235 Sebastian II: There is a wall in the way!
+291122 234240 Sebastian II: There is a wall in the way!
+291122 234245 Sebastian II: You hit the hobo.
+291122 234245 Sebastian II: The hobo flees in terror!
+291122 234248 Sebastian II: You hit the moose.
+291122 234248 New Level 0ft at (-1, 1)
+291122 234250 New Level 0ft at (0, 1)
+291122 234251 New Level 0ft at (-1, 1)
+291122 234252 New Level 0ft at (0, 1)
+291122 234252 New Level 0ft at (-1, 1)
+291122 234253 New Level 0ft at (0, 1)
+291122 234255 Sebastian II: You hit the filthy street urchin.
+291122 234255 Sebastian II: You have defeated the filthy street urchin.
+291122 234300 Shutting down.
+291122 234300 Goodbye Sebastian II=GabaGanja@WillyWonka ("Server shutdown (save succeeded)")
+291122 234300 Server state save succeeded!
+291122 234300 Account info save succeeded!
+291122 234309 Game Restarted
+291122 234309 Initialised exit save handler.
+291122 234309 Dungeon Master Set as [admin]
+291122 234309 Timer delay 13 ms timer resolution is 1 ms
+291122 234309 Initializing constants...
+291122 234309 Initializing projections...
+291122 234309 Initializing player properties...
+291122 234309 Initializing features...
+291122 234309 Initializing wilderness feats...
+291122 234309 Initializing wilderness info...
+291122 234309 Initializing town feats...
+291122 234309 Initializing towns...
+291122 234309 Initializing dungeons...
+291122 234309 Initializing object bases...
+291122 234309 Initializing slays...
+291122 234309 Initializing brands...
+291122 234309 Initializing monster pain messages...
+291122 234309 Initializing monster bases...
+291122 234309 Initializing summons...
+291122 234309 Initializing curses...
+291122 234309 Initializing activations...
+291122 234309 Initializing objects...
+291122 234309 Initializing ego-items...
+291122 234309 Initializing history charts...
+291122 234309 Initializing bodies...
+291122 234309 Initializing player races...
+291122 234309 Initializing dragon breeds...
+291122 234309 Initializing magic realms...
+291122 234309 Initializing player classes...
+291122 234309 Initializing DM starting items...
+291122 234309 Initializing artifacts...
+291122 234309 Initializing object properties...
+291122 234309 Initializing timed effects...
+291122 234309 Initializing object power calculations...
+291122 234309 Initializing blow methods...
+291122 234309 Initializing blow effects...
+291122 234310 Initializing monster spells...
+291122 234310 Initializing monsters...
+291122 234310 Initializing monster pits...
+291122 234310 Initializing traps...
+291122 234310 Initializing chest_traps...
+291122 234310 Initializing quests...
+291122 234310 Initializing flavours...
+291122 234310 Initializing socials...
+291122 234310 Initializing hints...
+291122 234310 Initializing swear...
+291122 234310 Initializing level_golds...
+291122 234310 Initializing random names...
+291122 234310 Initializing dungeon profiles...
+291122 234310 Initializing room templates...
+291122 234310 Initializing vaults...
+291122 234310 Initializing player presets...
+291122 234310 Initializing other stuff...
+291122 234310 Initializing randarts...
+291122 234310 Initializing RNG...
+291122 234310 Initialization complete
+291122 234310 Please wait...
+291122 234310 Object flavors initialized...
+291122 234310 Loading pref file: font.prf
+291122 234310 Create TCP socket...
+291122 234310 Set Non-Blocking...
+291122 234310 Report to metaserver
+291122 234310 Server is running version 1.6.0 (Beta 0) T-14
+291122 234310 Timer delay 13 ms timer resolution is 1 ms
+291122 234318 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 234318 Player Name is [Sebastian II], id is 6
+291122 234318 Sebastian II: Server has non-connected stairs.
+291122 234318 Sebastian II: Server has limited level feelings.
+291122 234318 Sebastian II: Server is no-selling.
+291122 234318 Sebastian II: Server is no-ghost.
+291122 234318 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 234857 Sebastian II: You hit the aimless-looking merchant.
+291122 234857 Sebastian II: The aimless-looking merchant flees in terror!
+291122 234922 Sebastian II: You hit the aimless-looking merchant.
+291122 234922 Sebastian II: The aimless-looking merchant flees in terror!
+291122 234923 Sebastian II: You hit the aimless-looking merchant.
+291122 234923 Sebastian II: You have defeated the aimless-looking merchant.
+291122 235017 Sebastian II: The sun has risen.
+291122 235024 Sebastian II: The black and white cat wakes up.
+291122 235025 Sebastian II: The sheep wakes up.
+291122 235030 Goodbye Sebastian II=GabaGanja@WillyWonka ("Client quit")
+291122 235032 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 235033 Player Name is [Sebastian II], id is 6
+291122 235033 Sebastian II: Server has non-connected stairs.
+291122 235033 Sebastian II: Server has limited level feelings.
+291122 235033 Sebastian II: Server is no-selling.
+291122 235033 Sebastian II: Server is no-ghost.
+291122 235033 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 235033 Goodbye Sebastian II=GabaGanja@WillyWonka ("Net input write error")
+291122 235040 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 235040 Player Name is [Sebastian II], id is 6
+291122 235040 Sebastian II: Server has non-connected stairs.
+291122 235040 Sebastian II: Server has limited level feelings.
+291122 235040 Sebastian II: Server is no-selling.
+291122 235040 Sebastian II: Server is no-ghost.
+291122 235040 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 235040 Goodbye Sebastian II=GabaGanja@WillyWonka ("Net input write error")
+291122 235055 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 235055 Player Name is [Sebastian II], id is 6
+291122 235055 Sebastian II: Server has non-connected stairs.
+291122 235055 Sebastian II: Server has limited level feelings.
+291122 235055 Sebastian II: Server is no-selling.
+291122 235055 Sebastian II: Server is no-ghost.
+291122 235055 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 235058 Sebastian II: There is a wall in the way!
+291122 235100 Sebastian II: You hit the mean-looking mercenary.
+291122 235100 Sebastian II: The mean-looking mercenary hits you.
+291122 235112 Sebastian II: There is a wall in the way!
+291122 235113 Sebastian II: There is a wall in the way!
+291122 235115 Sebastian II: The white horse wakes up.
+291122 235115 New Level 0ft at (-1, 1)
+291122 235118 New Level 0ft at (0, 1)
+291122 235119 New Level 0ft at (-1, 1)
+291122 235137 Goodbye Sebastian II=GabaGanja@WillyWonka ("Client quit")
+291122 235139 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 235139 Player Name is [Sebastian II], id is 6
+291122 235139 Sebastian II: Server has non-connected stairs.
+291122 235139 Sebastian II: Server has limited level feelings.
+291122 235139 Sebastian II: Server is no-selling.
+291122 235139 Sebastian II: Server is no-ghost.
+291122 235139 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 235146 New Level 0ft at (0, 1)
+291122 235147 New Level 0ft at (-1, 1)
+291122 235148 Goodbye Sebastian II=GabaGanja@WillyWonka ("Client quit")
+291122 235154 Welcome Sebastian=GabaGanja@WillyWonka (127.0.0.1) (version 000e)
+291122 235154 Player Name is [Sebastian II], id is 6
+291122 235154 Sebastian II: Server has non-connected stairs.
+291122 235154 Sebastian II: Server has limited level feelings.
+291122 235154 Sebastian II: Server is no-selling.
+291122 235154 Sebastian II: Server is no-ghost.
+291122 235154 Sebastian II: Server is running version 1.6.0 (Beta 0) T-14
+291122 235158 New Level 0ft at (0, 1)
+291122 235159 New Level 0ft at (-1, 1)
+291122 235222 New Level 0ft at (-2, 1)
+291122 235223 New Level 0ft at (-1, 1)
+291122 235224 New Level 0ft at (-2, 1)
+291122 235225 New Level 0ft at (-1, 1)
+291122 235226 New Level 0ft at (-2, 1)
+291122 235226 New Level 0ft at (-1, 1)
+291122 235227 New Level 0ft at (-2, 1)
+291122 235228 Sebastian II: You are drowning!
+291122 235228 Sebastian II: You are drowning!
+291122 235231 New Level 0ft at (-1, 1)
+291122 235232 New Level 0ft at (-2, 1)
+291122 235232 Sebastian II: You hit the Magery Peninsula giant roc.
+291122 235232 Sebastian II: The Magery Peninsula giant roc crushes you.
+291122 235232 Sebastian II: You die.
+291122 235232 Sebastian II: You have been killed by a Magery Peninsula giant roc.
+291122 235233 Goodbye Sebastian II=GabaGanja@WillyWonka ("Killed by a Magery Peninsula giant roc")

@@ -1,0 +1,117 @@
+#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=# begin Dump window settings
+# *Warning!*  The lines below are an automatic dump.
+# Don't edit them; changes will be deleted and replaced automatically.
+
+# Window 'Main window', Flag 'Display inven/equip'
+window:0:0:0
+
+# Window 'Main window', Flag 'Display equip/inven'
+window:0:1:0
+
+# Window 'Main window', Flag 'Display player (basic)'
+window:0:2:0
+
+# Window 'Main window', Flag 'Display player (extra)'
+window:0:3:0
+
+# Window 'Main window', Flag 'Display player (compact)'
+window:0:4:1
+
+# Window 'Main window', Flag 'Display map view'
+window:0:5:0
+
+# Window 'Main window', Flag 'Display messages'
+window:0:6:0
+
+# Window 'Main window', Flag 'Display monster recall'
+window:0:8:0
+
+# Window 'Main window', Flag 'Display object recall'
+window:0:9:0
+
+# Window 'Main window', Flag 'Display monster list'
+window:0:10:0
+
+# Window 'Main window', Flag 'Display status'
+window:0:11:1
+
+# Window 'Main window', Flag 'Display chat messages'
+window:0:12:0
+
+# Window 'Main window', Flag 'Display spell list'
+window:0:13:0
+
+# Window 'Main window', Flag 'Display item list'
+window:0:14:0
+
+# Window 'Main window', Flag 'Display special info'
+window:0:15:0
+
+# Window 'Term-1', Flag 'Display messages'
+window:1:6:1
+
+# Window 'Term-2', Flag 'Display equip/inven'
+window:2:1:1
+
+# Window 'Term-3', Flag 'Display inven/equip'
+window:3:0:1
+
+# Window 'Chat window', Flag 'Display inven/equip'
+window:4:0:0
+
+# Window 'Chat window', Flag 'Display equip/inven'
+window:4:1:0
+
+# Window 'Chat window', Flag 'Display player (basic)'
+window:4:2:0
+
+# Window 'Chat window', Flag 'Display player (extra)'
+window:4:3:0
+
+# Window 'Chat window', Flag 'Display player (compact)'
+window:4:4:0
+
+# Window 'Chat window', Flag 'Display map view'
+window:4:5:0
+
+# Window 'Chat window', Flag 'Display messages'
+window:4:6:0
+
+# Window 'Chat window', Flag 'Display monster recall'
+window:4:8:0
+
+# Window 'Chat window', Flag 'Display object recall'
+window:4:9:0
+
+# Window 'Chat window', Flag 'Display monster list'
+window:4:10:0
+
+# Window 'Chat window', Flag 'Display status'
+window:4:11:0
+
+# Window 'Chat window', Flag 'Display chat messages'
+window:4:12:1
+
+# Window 'Chat window', Flag 'Display spell list'
+window:4:13:0
+
+# Window 'Chat window', Flag 'Display item list'
+window:4:14:0
+
+# Window 'Chat window', Flag 'Display special info'
+window:4:15:0
+
+# Window 'Term-5', Flag 'Display monster list'
+window:5:10:1
+
+# Window 'Term-6', Flag 'Display item list'
+window:6:14:1
+
+# Window 'Term-7', Flag 'Display map view'
+window:7:5:1
+
+# *Warning!*  The lines above are an automatic dump.
+# Don't edit them; changes will be deleted and replaced automatically.
+#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=# end Dump window settings
+
+

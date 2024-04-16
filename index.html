@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>MAngband JS Client</title>
+
+
+<canvas style="z-index:-5" id="graphics"></canvas>
+<!-- Rest of the stuff. -->
+
+<link rel="stylesheet" href="windowStyle.css">
+
+<script src="md5.js"></script>
+<script src="controls.js"></script>
+<script src="pathfind.js"></script>
+<script src="data_load.js"></script>
+<script src="packets.js"></script>
+<script src="entityDetection.js"></script>
+
+
+<script src="websock.js"></script>
+<script src="net-core.js"></script>
+<script src="net-pwma140.js"></script>
+
+
+<script src="./render/gl-matrix-min.js"></script>
+<script src="./render/renderBoiler.js"></script>
+<script src="./render/shaders.js"></script>
+<script src="./render/renderMain.js"></script>
+
+
+<script src="mangclient-react.js"></script>
+<script src="astar.js"></script>
+</head>
+<body>
+
+
+
+<div id="meta">
+<style>
+
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: #212121 #5e5e5e;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 16px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #858585;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #212121;
+    border-radius: 0px;
+    border: 4px solid #000000;
+  }
+
+select {
+	background-color:rgb(50,50,50);
+	color:white;
+	font-size:20px;
+}
+
+#message {
+	background-color:rgb(75,75,75);
+	border-radius:32px;
+	position:absolute;
+	transform: translate(-50%, -50%);
+	bottom:-5%;
+	left:50%;
+	width:100%;
+	font-size:32px;
+	text-align:center;
+	box-shadow: inset 0 0 10px rgb(80,0,0);
+	color:white;
+	opacity:0;
+	display:none;
+}
+
+input[type='radio'] { 
+	transform: scale(1.5); 
+}
+
+label {
+	color:white;
+	font-size:20px;
+}
+
+h2 {
+	color:white;
+	box-shadow: inset 0 0 30px rgb(80,0,0);
+}
+
+h1 {
+	color:white;
+	box-shadow: inset 0 0 30px rgb(80,0,0);
+}
+
+#charHolder { 
+	z-index:10;
+	margin:auto;
+	position:absolute;
+	left:50%;
+	top:50%;
+	transform: translate(-50%, -50%);
+	padding:150px;
+	padding-top:25px;
+	background-color:rgba(0,0,0,0.5);
+	border-radius:24px;
+	box-shadow: inset 0 0 30px rgb(80,0,0);
+}
+
+@font-face {
+  font-family: underdog;
+  src: url(fonts/underdog.ttf);
+}
+
+*{
+font-family:underdog;
+transition: all 0.5s;
+-webkit-user-select: none; /* Safari */
+-ms-user-select: none; /* IE 10 and IE 11 */
+user-select: none; /* Standard syntax */
+}
+
+input {
+	font-size:28px;
+	background-color:rgba(50,50,50,0.45);
+	color:white;
+	overflow:hidden;
+	float:right;
+}
+
+form {
+background-color:rgba(0,0,0,0.75);
+padding-top:70px;
+padding-bottom:70px;
+padding-left:30px;
+padding-right:30px;
+border-radius:25px;
+box-shadow: inset 0 0 70px rgb(80,0,0);
+}
+
+span {
+	font-size:32px;
+}
+
+html,body {
+	background-color:black;
+	overflow:hidden;
+
+}
+tr { cursor: pointer; }
+tr:hover {
+	background: #eee;
+}
+td.supported {
+}
+td.not-supported {
+	text-decoration: line-through;
+	color: #f00;
+}
+
+#buttonHolder {
+	text-align:center;
+}
+
+.charBtn {
+	background-color:rgb(50,0,0);
+	color:white;
+	font-size:25px;
+	margin:auto;
+}
+     
+.charBtn:hover {
+	background-color:rgb(100,0,0);
+	color:white;
+	font-size:30px;
+	margin:auto;
+}	
+
+
+button {
+	background-color:rgb(100,0,0);
+	color:white;
+	font-size:35px;
+	margin:auto;
+}
+     
+button:hover {
+	background-color:rgb(150,0,0);
+	color:white;
+	font-size:40px;
+	margin:auto;
+}	 
+
+</style>
+</div>
+
+
+<div id="rightWindow">
+	<div id="log" class="smallerWindow"></div>
+	<div id="chat" class="smallerWindow"></div>
+	<input id="chatMessage" value="Type here..."></input>
+</div>
+
+
+<img id="logo" src="logo.png" style="position:absolute;top:5%;left:50%;width:25%;min-width:350px;background-color:rgba(0,0,0,0.75);border-radius:24px;box-shadow: inset 0 0 30px rgb(80,0,0); color:white;z-index:10;transform: translate(-50%, -0%);"></img>
+<!-- Some kind of a form to give some inputs. -->
+<form id="debug_constructor" style="position:absolute;top:50%;left:50%; color:white;z-index:10;transform: translate(-50%, -50%);">
+
+	<p><span>server: </span><input type="text" name="server" value="127.0.0.1" required/></p>
+	<p><span>port: </span><input type="text" name="port" value="8802" required/></p>
+	<select hidden name="protocol">
+		<!--<option>mangband153</option>
+		<option>tomenet472</option>-->
+		<option>pwmangband140b0</option>
+	</select></p>
+	<p><span>login: </span><input type="text" name="login" required/></p>
+	<p><span>password: </span><input type="password" name="password" required/></p>
+	</br></br>
+	<div id="buttonHolder"><button type="submit">Connect</button></div>
+</form>
+
+
+<div id="message">This is some text</div>
+
+
+
+<script>
+
+//Now let's react to form
+var form = document.getElementById('debug_constructor');
+var logo = document.getElementById("logo");
+form.addEventListener('submit', function(e) {
+	e.preventDefault();
+	const values = {};
+	document.querySelectorAll("#debug_constructor input, #debug_constructor select").forEach(element => values[element.name] = element.value);
+	values['server'] = 'ws://' + values['server'] + ':' + values['port'];
+
+	logo.style.opacity = '0%';
+	form.style.opacity = '0%';
+	
+	setTimeout(function(){
+		var form = document.getElementById('debug_constructor');
+		var logo = document.getElementById("logo");
+		logo.style.display="none";
+		form.style.display="none";
+	},250);
+
+	document.getElementById('meta').style.display = 'none';
+
+	console.log("Init game with", values);
+
+	//------------------------------------
+	var client = new MAngbandReactClient(
+		document.getElementById('screen'),
+		values
+	);
+	//------------------------------------
+	return false;
+})
+
+function showMenu(){
+	let charHolder = document.getElementById("charHolder");
+	if(charHolder) charHolder.remove();
+
+	logo.style.display="initial";
+	form.style.display="initial";
+	
+	setTimeout(function(){
+		logo.style.opacity=1;
+		form.style.opacity=1;
+	},1000);	
+
+}
+
+function showMessage(msg){
+	
+	if(message.innerHTML!=msg){
+	
+		message.style.display="initial";
+		
+		setTimeout(function(){
+			message.style.opacity=1;
+			message.style.bottom="0%";
+		},100);
+		message.innerHTML=msg;
+		
+		
+		setTimeout(function(){
+			message.style.opacity=0;
+			message.style.bottom="-5%";
+			setTimeout(function(){
+				message.style.display="none";;
+				message.innerHTML="";
+			},250);
+		},3000);
+	
+	}
+}
+message.style.opacity=0;
+</script>
+<script src="windowControl.js"></script>
+</body>
+</html>

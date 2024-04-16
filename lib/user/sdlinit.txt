@@ -1,0 +1,98 @@
+Resolution = 1920x1009
+Fullscreen = 1
+SoundVolume = 50
+MusicVolume = 50
+DefaultColor = 160,60,60
+StatusBarColor = 0
+NiceGraphics = 1
+Graphics = 1
+TileWidth = 4
+TileHeight = 4
+
+Window = 0
+Visible = 1
+Left = 2
+Top = 13
+Width = 1644
+Height = 1063
+Keys = 1024
+WinBorders = 2
+Font = 8x8x.fon
+
+
+Window = 1
+Visible = 1
+Left = 1645
+Top = 13
+Width = 262
+Height = 225
+Keys = 32
+WinBorders = 2
+Font = 6x10x.fon
+
+
+Window = 2
+Visible = 0
+Left = 1646
+Top = 367
+Width = 274
+Height = 145
+Keys = 32
+WinBorders = 2
+Font = 6x10x.fon
+
+
+Window = 3
+Visible = 0
+Left = 1646
+Top = 482
+Width = 274
+Height = 185
+Keys = 32
+WinBorders = 2
+Font = 6x10x.fon
+
+
+Window = 4
+Visible = 0
+Left = 1499
+Top = 13
+Width = 409
+Height = 167
+Keys = 32
+WinBorders = 2
+Font = UbuntuMono-Bold.ttf
+
+
+Window = 5
+Visible = 1
+Left = 1646
+Top = 862
+Width = 274
+Height = 215
+Keys = 32
+WinBorders = 2
+Font = 6x10x.fon
+
+
+Window = 6
+Visible = 1
+Left = 1646
+Top = 667
+Width = 268
+Height = 195
+Keys = 32
+WinBorders = 2
+Font = 6x10x.fon
+
+
+Window = 7
+Visible = 1
+Left = 116
+Top = 162
+Width = 1684
+Height = 759
+Keys = 32
+WinBorders = 2
+Font = 21x31tgs.fon
+
